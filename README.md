@@ -1,2 +1,2 @@
-Ethical HAcking Network
+# Ethical Hacking Network
 0101110 this is why we hack 0101110
